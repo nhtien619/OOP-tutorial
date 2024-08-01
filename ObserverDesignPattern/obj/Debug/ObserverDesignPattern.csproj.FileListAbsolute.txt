@@ -1,7 +1,0 @@
-D:\Projects\Pratices\OOP\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.exe.config
-D:\Projects\Pratices\OOP\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.exe
-D:\Projects\Pratices\OOP\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.pdb
-D:\Projects\Pratices\OOP\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csproj.AssemblyReference.cache
-D:\Projects\Pratices\OOP\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csproj.CoreCompileInputs.cache
-D:\Projects\Pratices\OOP\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.exe
-D:\Projects\Pratices\OOP\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.pdb

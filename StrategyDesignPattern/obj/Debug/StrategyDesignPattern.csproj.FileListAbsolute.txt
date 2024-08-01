@@ -1,7 +1,0 @@
-D:\Projects\Pratices\OOP\StrategyDesignPattern\bin\Debug\StrategyDesignPattern.exe.config
-D:\Projects\Pratices\OOP\StrategyDesignPattern\bin\Debug\StrategyDesignPattern.exe
-D:\Projects\Pratices\OOP\StrategyDesignPattern\bin\Debug\StrategyDesignPattern.pdb
-D:\Projects\Pratices\OOP\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.csproj.AssemblyReference.cache
-D:\Projects\Pratices\OOP\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.csproj.CoreCompileInputs.cache
-D:\Projects\Pratices\OOP\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.exe
-D:\Projects\Pratices\OOP\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.pdb
